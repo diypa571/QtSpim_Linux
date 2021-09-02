@@ -1,0 +1,7 @@
+QtSpim
+True, we can use Atmel Studio for  the Assembly anguage programming, but QtSpim is fast and ok.
+Installing QtSpim in a Linux machine
+1- sudo wget https://sourceforge.net/projects/spimsimulator/files/qtspim_9.1.22_linux64.deb
+2- dpkg -i qtspim_9.1.22_linux64.deb
+For runing QtSpim
+3- qtspim
